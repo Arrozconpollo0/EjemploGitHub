@@ -27,9 +27,6 @@ public class Persona {
     }
 
     // Getters y Setters
-    //Añadimos comentarios a la clase persona 
-    //Comentario en clase persona
-    //Mas comentarios
     public String getNombre() {
         return nombre;
     }
